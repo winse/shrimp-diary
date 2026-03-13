@@ -338,7 +338,3 @@ footer a:hover {
 .github-link svg {
     vertical-align: middle;
 }
-
-.github-link svg path {
-    fill: #888;
-}
