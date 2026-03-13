@@ -320,3 +320,21 @@ footer a {
     color: #555;
     text-decoration: none;
 }
+
+footer a:hover {
+    color: #888;
+}
+
+.github-link {
+    display: inline-block;
+    margin-top: 10px;
+    transition: opacity 0.2s;
+}
+
+.github-link:hover {
+    opacity: 0.7;
+}
+
+.github-link svg {
+    vertical-align: middle;
+}
