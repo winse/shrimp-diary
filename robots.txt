@@ -1,0 +1,10 @@
+# robots.txt for winse.space
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://winse.space/sitemap.xml
+
+# Crawl-delay (optional, be nice to the server)
+Crawl-delay: 1
