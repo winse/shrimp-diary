@@ -1,0 +1,24 @@
+# 1. 忽略所有文件
+*
+
+# 2. 忽略所有文件夹
+/*/
+
+# 3. 允许提交特定的文件 (白名单)
+!CNAME
+!README.md
+!baidu_verify_codeva-chIIpNOrB1.html
+!favicon.svg
+!index.html
+!robots.txt
+!sitemap.xml
+!style.css
+!theme.js
+!.gitignore
+
+# 4. 允许提交特定文件夹及其内容
+!diary/
+!diary/*
+!tutorials/
+!tutorials/*
+
